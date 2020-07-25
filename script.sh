@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Description:
+#Author: Ian
 
 grep $1 /etc/passwd
 
